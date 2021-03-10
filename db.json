@@ -1,9 +1,11 @@
-[
-    { "name": "name 1", "user": "user1" },
-    { "name": "name 2", "user": "user2" },
-    { "name": "name 3", "user": "user3" },
-    { "name": "name 4", "user": "user4" },
-    { "name": "name 5", "user": "user5" },
-    { "name": "name 6", "user": "user6" },
-    { "name": "name 7", "user": "user7" }
-]
+{
+    "parkings": [
+        { "name": "name 1", "user": "user1" },
+        { "name": "name 2", "user": "user2" },
+        { "name": "name 3", "user": "user3" },
+        { "name": "name 4", "user": "user4" },
+        { "name": "name 5", "user": "user5" },
+        { "name": "name 6", "user": "user6" },
+        { "name": "name 7", "user": "user7" }
+    ]
+}
