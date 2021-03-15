@@ -1,11 +1,95 @@
 {
-    "parkings": [
-        { "name": "name 1", "user": "user1" },
-        { "name": "name 2", "user": "user2" },
-        { "name": "name 3", "user": "user3" },
-        { "name": "name 4", "user": "user4" },
-        { "name": "name 5", "user": "user5" },
-        { "name": "name 6", "user": "user6" },
-        { "name": "name 7", "user": "user7" }
+    "objects": [
+        {
+            "name": "ЖК Авиценна-2",
+            "city": "Нур-Султан",
+            "address": "Керей Жанибек Хандар, 15",
+            "long": 51.113149036351516,
+            "lat": 71.43617664791518,
+            "images": [
+                {"image":"https://picsum.photos/800/600?random=1", "name": "main view"},
+                {"image":"https://picsum.photos/800/600?random=2", "name": "map view"}
+            ],
+            "minPrice": 1500000,
+            "user": "user1"
+        },
+        {
+            "name": "ЖК Авиценна-3",
+            "city": "Нур-Султан",
+            "address": "Керей Жанибек Хандар, 15",
+            "long": 51.113149036351516,
+            "lat": 71.43617664791518,
+            "images": [
+                {"image":"https://picsum.photos/800/600?random=3", "name": "main view"},
+                {"image":"https://picsum.photos/800/600?random=4", "name": "map view"}
+            ],
+            "minPrice": 1500000,
+            "user": "user1"
+        },
+        {
+            "name": "ЖК Авиценна-4",
+            "city": "Нур-Султан",
+            "address": "Керей Жанибек Хандар, 15",
+            "long": 51.113149036351516,
+            "lat": 71.43617664791518,
+            "images": [
+                {"image":"https://picsum.photos/800/600?random=5", "name": "main view"},
+                {"image":"https://picsum.photos/800/600?random=6", "name": "map view"}
+            ],
+            "minPrice": 1500000,
+            "user": "user1"
+        },
+        {
+            "name": "ЖК Авиценна-21",
+            "city": "Нур-Султан",
+            "address": "Керей Жанибек Хандар, 15",
+            "long": 51.113149036351516,
+            "lat": 71.43617664791518,
+            "images": [
+                {"image":"https://picsum.photos/800/600?random=7", "name": "main view"},
+                {"image":"https://picsum.photos/800/600?random=8", "name": "map view"}
+            ],
+            "minPrice": 1500000,
+            "user": "user1"
+        },
+        {
+            "name": "ЖК Авиценна-22",
+            "city": "Нур-Султан",
+            "address": "Керей Жанибек Хандар, 15",
+            "long": 51.113149036351516,
+            "lat": 71.43617664791518,
+            "images": [
+                {"image":"https://picsum.photos/800/600?random=1", "name": "main view"},
+                {"image":"https://picsum.photos/800/600?random=2", "name": "map view"}
+            ],
+            "minPrice": 1500000,
+            "user": "user1"
+        },
+        {
+            "name": "ЖК Авиценна-23",
+            "city": "Нур-Султан",
+            "address": "Керей Жанибек Хандар, 115",
+            "long": 51.113149036351516,
+            "lat": 71.43617664791518,
+            "images": [
+                {"image":"https://picsum.photos/800/600?random=1", "name": "main view"},
+                {"image":"https://picsum.photos/800/600?random=2", "name": "map view"}
+            ],
+            "minPrice": 1500000,
+            "user": "user1"
+        },
+        {
+            "name": "ЖК Авиценна-2",
+            "city": "Нур-Султан",
+            "address": "Керей Жанибек Хандар, 15",
+            "long": 51.113149036351516,
+            "lat": 71.43617664791518,
+            "images": [
+                {"image":"https://picsum.photos/800/600?random=1", "name": "main view"},
+                {"image":"https://picsum.photos/800/600?random=2", "name": "map view"}
+            ],
+            "minPrice": 1500000,
+            "user": "user1"
+        }
     ]
 }
